@@ -13,7 +13,7 @@ public class Hra : MonoBehaviour
 
     IEnumerator kancelarLoad()
     {
-        yield return new WaitForSeconds(10f);
+        yield return new WaitForSeconds(8f);
         SceneManager.LoadScene("Game");
     }
 }
