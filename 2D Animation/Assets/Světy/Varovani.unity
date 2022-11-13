@@ -321,7 +321,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0000019073, y: 0}
+  m_AnchoredPosition: {x: -0.0000019073486, y: 0}
   m_SizeDelta: {x: 1468.2277, y: 1080.0005}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &711676799
@@ -368,9 +368,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Varov\xE1n\xED\nN\xE1sleduj\xEDc\xED hru by n\u011Bm\u011Bl hr\xE1t ten
-    kdo nem\xE1 r\xE1d nedohrateln\xE9 hry a ten kdo r\xE1d ni\u010D\xED kl\xE1vesnice
-    by nem\u011Bl zap\xEDnat n\xE1sleduj\xEDc\xED hru.\n\n"
+  m_Text: "Varov\xE1n\xED\nN\xE1sleduj\xEDc\xED hra je ve st\xE1diu stav\u011Bn\xED.\nNeberte
+    ji jako fin\xE1ln\xED verzi.\n\n"
 --- !u!222 &711676801
 CanvasRenderer:
   m_ObjectHideFlags: 0
