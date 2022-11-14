@@ -13,7 +13,7 @@ public class varovani : MonoBehaviour
 
     IEnumerator kancelarLoad()
     {
-        yield return new WaitForSeconds(6f);
+        yield return new WaitForSeconds(5f);
         SceneManager.LoadScene("Menu");
     }
 }
