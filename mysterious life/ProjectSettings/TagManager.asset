@@ -8,6 +8,7 @@ TagManager:
   - Enemy
   - Coin
   - Gem
+  - Cherry
   layers:
   - Default
   - TransparentFX
