@@ -9,6 +9,7 @@ TagManager:
   - Coin
   - Gem
   - Cherry
+  - Ladder
   layers:
   - Default
   - TransparentFX
