@@ -13,7 +13,7 @@ public class odpocetload : MonoBehaviour
 
     IEnumerator levelLoad()
     {
-        yield return new WaitForSeconds(63f);
+        yield return new WaitForSeconds(10f);
         SceneManager.LoadScene("level");
     }
 }
